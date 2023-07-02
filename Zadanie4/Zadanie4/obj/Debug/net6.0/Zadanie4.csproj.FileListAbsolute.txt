@@ -1,0 +1,15 @@
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.csproj.AssemblyReference.cache
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.AssemblyInfoInputs.cache
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.AssemblyInfo.cs
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.csproj.CoreCompileInputs.cache
+D:\code\C#\Projekt\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.exe
+D:\code\C#\Projekt\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.deps.json
+D:\code\C#\Projekt\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.runtimeconfig.json
+D:\code\C#\Projekt\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.dll
+D:\code\C#\Projekt\Zadanie4\Zadanie4\bin\Debug\net6.0\Zadanie4.pdb
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.dll
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\refint\Zadanie4.dll
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.pdb
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\Zadanie4.genruntimeconfig.cache
+D:\code\C#\Projekt\Zadanie4\Zadanie4\obj\Debug\net6.0\ref\Zadanie4.dll
